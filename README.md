@@ -47,7 +47,7 @@ A documentação dos componentes que fiz utilizando a tecnologia [Storybook](htt
 - [Jest](https://jestjs.io/pt-BR/docs/getting-started)
 - [Testing Library](https://testing-library.com)
 
-## 🛰️ API🎨
+## 🛰️ API
 - [Via CEP](https://viacep.com.br)
 
 
