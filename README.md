@@ -24,6 +24,7 @@ Imagine que você foi contratado para desenvolver parte de uma landing page com 
 - Utilizar a Context API [✔️]
 - Utilizar a Storybook [✔️]
 - Utilizar a Teste Unitários [✔️]
+- Utilizar Mobile First [✔️]
 
 ## 📁 Páginas
 
