@@ -1,44 +1,44 @@
-<h1 align="center">📔 Omnix Digital Experience (Teste)</h1>
+<h1 align="center">📔 Omnix Digital Experience</h1>
 
-<img src="./public/assets/gif.gif" alt="Descrição da imagem">
+<img src="./public/assets/gif.gif" alt="Image description">
 
-🗔 Confira a aplicação: https://omnix-test.vercel.app
+🗔 Check out the app: https://omnix-test.vercel.app
 
-## :page_facing_up: Explicação do Desafio
+## :page_facing_up: Challenge Explanation
 
-Imagine que você foi contratado para desenvolver parte de uma landing page com foco na venda de planos de internet. O sistema de checkout já foi desenvolvido, então você deve desenvolver a página Home e de Ofertas. Ao acessar o site, o cliente se depara com uma mensagem de boas vindas e um formulário requisitando seu cep para prosseguir. Você deve utilizar a API da ViaCep para captar os dados do endereço. Ao avançar, é mostrada uma tela com uma mensagem contendo endereço informado, as ofertas dispovíveis para o cliente e um botão fixo no canto inferior direito da tela com a mensagem “Ops, errei meu cep!”, que, ao ser clicado, volta para a página anterior.
+Imagine you were hired to develop part of a landing page focused on selling internet plans. The checkout system has already been developed, so you must develop the Home and Deals page. Upon accessing the site, the customer is faced with a welcome message and a form requesting their zip code to proceed. You must use the ViaCep API to capture address data. When advancing, a screen is shown with a message containing the address entered, the offers available to the customer and a fixed button in the lower right corner of the screen with the message “Oops, I made a mistake in my zip code!”, which, when clicked, returns to the previous page.
 
-🎲 **O que será avaliado**
+🎲 **What will be evaluated**
 
 - HTML
-- CSS (uso de Flex Layout)
+- CSS (use of Flex Layout)
 - JavaScript
-- Lógica de programação
-- Organização de código
+- Programming logic
+- Code organization
 
-⚠️ **Diferenciais**
+⚠️ ** Differentials **
 
-- Utilizar HTML semântico [✔️]
-- Utilizar Typescript [✔️]
-- Utilizar a Next.js [✔️]
-- Utilizar a Context API [✔️]
-- Utilizar a Storybook [✔️]
-- Utilizar a Teste Unitários [✔️]
-- Utilizar Mobile First [✔️]
+- Use semantic HTML [✔️]
+- Use Typescript [✔️]
+- Use Next.js [✔️]
+- Use the Context API [✔️]
+- Use the Storybook [✔️]
+- Use Unit Test [✔️]
+- Use Mobile First [✔️]
 
-## 📁 Páginas
+## 📁 Pages
 
-O site tem no total 2 páginas, sendo elas:
+The site has a total of 2 pages, which are:
 
-- **Home:** A página inicial do site que precisa que o campo de texto seja preenchido com um CEP válido.
-- **Offers:** A página apresenta os dados consumidos pela API [Via CEP](https://viacep.com.br), além de alguns cards com planos de Internet.
+- **Home:** The homepage of the site that needs the text field to be filled in with a valid zip code.
+- **Offers:** The page presents the data consumed by the [Via CEP](https://viacep.com.br) API, in addition to some cards with Internet plans.
 
 ## 🎨 Story
 
-A documentação dos componentes que fiz utilizando a tecnologia [Storybook](https://storybook.js.org).
-<img src="./public/assets/story.gif" alt="Descrição da imagem">
+The documentation of the components I made using the [Storybook](https://storybook.js.org) technology.
+<img src="./public/assets/story.gif" alt="Image description">
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - [Next.js](https://nextjs.org)
 - [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
@@ -51,19 +51,18 @@ A documentação dos componentes que fiz utilizando a tecnologia [Storybook](htt
 ## 🛰️ API
 - [Via CEP](https://viacep.com.br)
 
+## :closed_book: How to use it?
 
-## :closed_book: Como usar?
-
-Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ```bash
 # Clone this project
 $ git clone https://testing-library.com
 
-# Access
-$ cd teste
+# access
+$ cd test
 
-# Install dependencies
+# install dependencies
 $ yarn or npm
 
 # Run the project
@@ -72,27 +71,27 @@ $ yarn start or npm start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Thanks to the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
         <sub>
           <b>Kayke Fujinaka</b>
         </sub>
       </a>
-    </td>
+    </all>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 &#xa0;
 
-<a href="#top">Volte para o topo</a>
+<a href="#top">Go back to top</a>
